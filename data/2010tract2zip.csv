@@ -1,4 +1,4 @@
-tract_fips,tract_name,tract_name_full,zipcode
+tract_fips10,tract_name,tract_name_full,zipcode
 "09003405700","4057",Census Tract 4057,"06010"
 "09003510200","5102",Census Tract 5102,"06108"
 "09003510400","5104",Census Tract 5104,"06108"
