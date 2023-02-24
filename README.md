@@ -1,6 +1,6 @@
 # Connecticut Census Tract -> Zip Code Crosswalk
 
-The `data/2020tract2zip.csv` and `data/2010tract2zip.csv` file contains a crosswalk between Connecticut census tracts (for 2020 or 2010) and zip codes in CT. **Note that some tracts cross zip boundaries, therefore this crosswalk is approximate**. The 2020 crosswalk contains 879 tracts that are matched to 238 zip codes. The 2010 crosswalk contains 829 tracts that are matched to 234 zip codes.
+The `data/2020tract2zip.csv` and `data/2010tract2zip.csv` file contains a crosswalk between Connecticut census tracts (for 2020 or 2010) and zip codes in CT. **Note that some tracts cross zip boundaries, therefore this crosswalk is approximate**. The 2020 crosswalk contains 879 tracts and the 2010 crosswalk contains 829 tracts.
 
 ```
 tract_fips10,tract_name,tract_name_full,zipcode
